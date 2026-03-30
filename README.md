@@ -1,6 +1,6 @@
 # Gerador-de-senhas
 
-realizado com puthon.
+realizado com python.
 
-Programa gera senhas aleataorioas com carecteres especiais.
-Você consegue selecionar a quantidade de carecteres que deseja na senha.
+Programa gera senhas aleatorias com caracteres especiais.
+Você consegue selecionar a quantidade de caracteres na senha.
